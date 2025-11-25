@@ -4,7 +4,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 🚀 Live Demo  
-👉 [Click Here to Visit Exclusive](https://vivekdev.netlify.app/)
+👉 [Click Here to Visit vivekdev](https://vivekdev.netlify.app/)
 
 ---
 
